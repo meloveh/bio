@@ -34,3 +34,10 @@ My name is Dmitry Voronin, known online as **Meloveh**. I work across several de
 ## Principle
 
 > One developer. Full cycle. No extra words.
+
+
+---
+
+## Portfolio
+
+See the full list of projects → [PORTFOLIO.md](PORTFOLIO.md)
