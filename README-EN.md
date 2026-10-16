@@ -1,4 +1,4 @@
-#en‑US
+# en‑US
 # Meloveh (Dmitry Voronin)
 
 **One-man developer.** I build everything myself — from idea and code to release and support.
@@ -27,7 +27,7 @@ My name is Dmitry Voronin, known online as **Meloveh**. I work across several de
 - **Telegram (personal):** [t.me/libmeloveh](https://t.me/libmeloveh)
 - **VK:** [vk.ru/libmeloveh](https://vk.ru/libmeloveh)
 - **Discord:** `meloveh`
-- **GitHub:** [libmeloveh](https://github.com/libmeloveh)
+- **GitHub:** [meloveh](https://github.com/meloveh)
 
 ---
 
