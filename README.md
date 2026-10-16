@@ -1,4 +1,4 @@
-# RU-ru
+# ru-RU
 # Meloveh (Дмитрий Воронин)
 
 **One-man developer.** Всё делаю сам — от идеи и кода до релиза и поддержки.
@@ -27,7 +27,7 @@
 - **Telegram (личный):** [t.me/libmeloveh](https://t.me/libmeloveh)
 - **VK:** [vk.ru/libmeloveh](https://vk.ru/libmeloveh)
 - **Discord:** `meloveh`
-- **GitHub:** [libmeloveh](https://github.com/libmeloveh)
+- **GitHub:** [libmeloveh](https://github.com/meloveh)
 
 ---
 
